@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/meccoi/appreview.git/static/css/main.5afb1e6b.css",
+    "main.js": "/meccoi/appreview.git/static/js/main.0d177428.js",
+    "static/js/787.2a03eaeb.chunk.js": "/meccoi/appreview.git/static/js/787.2a03eaeb.chunk.js",
+    "static/media/screen-recordingss.mp4": "/meccoi/appreview.git/static/media/screen-recordingss.67951d91e218a07646d7.mp4",
+    "static/media/Screenshot 2022-11-29 190124.png": "/meccoi/appreview.git/static/media/Screenshot 2022-11-29 190124.3928064bd6b473d7969f.png",
+    "static/media/Screenshot 2022-11-29 214957.png": "/meccoi/appreview.git/static/media/Screenshot 2022-11-29 214957.35082db607084848b0a0.png",
+    "static/media/Screenshot 2022-11-29 214102.png": "/meccoi/appreview.git/static/media/Screenshot 2022-11-29 214102.6df7e26c6097daee3ef9.png",
+    "static/media/shopee.png": "/meccoi/appreview.git/static/media/shopee.5795afdf74168c3d5b45.png",
+    "static/media/Screen Shot 2022-11-29 at 21.46.18.png": "/meccoi/appreview.git/static/media/Screen Shot 2022-11-29 at 21.46.18.f4095d3d8dfc2f3e3fe1.png",
+    "static/media/ClarityCity-Bold.ttf": "/meccoi/appreview.git/static/media/ClarityCity-Bold.66fe46634ee702eebc93.ttf",
+    "static/media/Screenshot 2022-11-29 191041.png": "/meccoi/appreview.git/static/media/Screenshot 2022-11-29 191041.964e1741d9938293a7b7.png",
+    "static/media/noname.png": "/meccoi/appreview.git/static/media/noname.0b29ae37fcc8777191f3.png",
+    "static/media/Screenshot 2022-11-29 214132.png": "/meccoi/appreview.git/static/media/Screenshot 2022-11-29 214132.7f5c077b666a6c8e1c8b.png",
+    "static/media/Screenshot 2022-11-29 191752.png": "/meccoi/appreview.git/static/media/Screenshot 2022-11-29 191752.7194f678c65cf5267e05.png",
+    "index.html": "/meccoi/appreview.git/index.html",
+    "main.5afb1e6b.css.map": "/meccoi/appreview.git/static/css/main.5afb1e6b.css.map",
+    "main.0d177428.js.map": "/meccoi/appreview.git/static/js/main.0d177428.js.map",
+    "787.2a03eaeb.chunk.js.map": "/meccoi/appreview.git/static/js/787.2a03eaeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5afb1e6b.css",
+    "static/js/main.0d177428.js"
+  ]
+}
